@@ -36,7 +36,7 @@ A FastAPI-based REST API that processes receipts and calculates reward points ba
 
 
 #### 📩 Request URL
-```json
+```
 GET http://127.0.0.1:8000/receipts/55568eb4-4fe6-471a-85e5-ebb3bb7a2fb8/points
 ```
 ✅ **Response (200 OK)**  
